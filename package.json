@@ -1,0 +1,22 @@
+{
+  "name": "nwlnr",
+  "version": "0.0.0",
+  "description": "A simple node module for splitting string input by new line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshgillies/nwlnr.git"
+  },
+  "keywords": [
+    "newline",
+    "line",
+    "split"
+  ],
+  "author": "Josh Gillies (contact@joshgilli.es)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "241ec43a3fa6a7136db182fa672b506b3e4fc77f"
+}
